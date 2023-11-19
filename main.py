@@ -1,6 +1,3 @@
-# Nadia Al-Salem
-# 1203608
-
 from abc import ABC , abstractmethod
 import matplotlib.pyplot as plt
 import sys
